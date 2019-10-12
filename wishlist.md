@@ -9,7 +9,6 @@
 - Crucial MX500 500GB 2.5"
 - Seagate FireCuda Compute ST1000LX015 SSHD
 - Геймпад Microsoft Xbox One S/X Wireless Controller (Minecraft Creeper)
-- Микрофон ???
 
 
 ### Books
